@@ -6,3 +6,4 @@ A fruit store web site using bootstrap, HTML, CSS and Java Script
 ![Screenshot 2023-11-01 021729](https://github.com/Tanmoydeb111/Fruit-Store-Website/assets/93857388/998d3150-36bc-405f-9e06-0b986d10d87e)
 ![Screenshot 2023-11-01 021746](https://github.com/Tanmoydeb111/Fruit-Store-Website/assets/93857388/dc62be7a-437b-4548-bca5-6772177b4de3)
 ![Screenshot 2023-11-01 021806](https://github.com/Tanmoydeb111/Fruit-Store-Website/assets/93857388/b55d247d-8b88-4d9e-9cc5-078001697e6b)
+![Screenshot 2023-11-01 022006](https://github.com/Tanmoydeb111/Fruit-Store-Website/assets/93857388/6282f042-8ac2-473c-a81f-9bd6d1895f25)
